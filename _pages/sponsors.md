@@ -10,7 +10,7 @@ If your company would like to donate, please reach out to Dan Janowski at [spons
 
 ## Objectives
 
-The current priority is the inaugural [v0.1](https://github.com/expert-lsp/expert/milestone/1) release.
+The current priority is the [v0.3](https://github.com/expert-lsp/expert/milestone/3) release.
 
 You can follow progress and see future milestones for the following releases on [GitHub](https://github.com/expert-lsp/expert/milestones).
 
