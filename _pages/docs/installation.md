@@ -148,7 +148,7 @@ You can also manually download the executable from the [releases](https://github
 
 > [!tip]
 > 
-> Expert uses [just](https://just.systems/man/en/). You can install it with your systems package manager.
+> Expert uses [just](https://just.systems/man/en/). You can install it with your system's package manager.
 
 Recipes for building from source are located in our [justfile](https://github.com/expert-lsp/expert/blob/main/justfile).
 The following builds a release for your OS, copies it to `~/.local/libexec/expert`, and symlinks
